@@ -1,12 +1,6 @@
 # The fonts I use in UX / UI projects.
 
-<table border=0 cellpading=2>
-<tr>
- <td>
- <img style="border:1px solid red;" src="https://betterthansuccess.com/wp-content/uploads/2016/06/font-example-1440x720.jpg" alt="Markdown Monster icon">
- </td>
- </tr>
-</table>
 
-In metal typesetting, a font was a particular size, weight and style of a typeface. Each font was a matched set of type, one piece (called a "sort") for each glyph, and a typeface consisting of a range of fonts that shared an overall design.
+ <img src="personal_.png" alt="Personal Fonts">
+
 
